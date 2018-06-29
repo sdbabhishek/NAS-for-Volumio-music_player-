@@ -1,0 +1,32 @@
+NAS using WINDOWS PC
+
+1. go to drive select the folder you want to share
+
+2. Give the permission to be shared among others by going to properties
+
+3. Find the ip of your PC from command prompt (ipconfig)
+
+4. Try to access the folder/files by address in web browser: 
+     \\ip_address\folder_name
+     for example- \\192.168.137.1/Music/
+
+5.  Now Open the Location you want to access NAS
+
+6. Now Open Network in Left_bottom from This_PC
+
+7. Paste the address you typed in browser
+   ie  \\192.168.137.1/Music/
+
+8. Now you will see the set of Folders there you shared
+
+9. Right click on the folder and choose properties and copy ip address and paste in NAS ip address
+    NOTE- don't copy \\
+    ie 192.168.137.1
+
+10. Copy the folder location that you want to access
+     ie Music\song_folder
+
+11. In case asked to login, just give the user name and password of your PC
+
+
+
